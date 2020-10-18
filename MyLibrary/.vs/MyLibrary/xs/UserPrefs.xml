@@ -1,16 +1,20 @@
 ﻿<Properties StartupConfiguration="{60B88C44-E3BC-45A5-940E-2CD06CD55B23}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MyLibrary/Author.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyLibrary/Menu.cs">
     <Files>
-      <File FileName="MyLibrary/Application.cs" Line="9" Column="1" />
-      <File FileName="MyLibrary/Book.cs" Line="9" Column="32" />
-      <File FileName="MyLibrary/Author.cs" Line="8" Column="34" />
+      <File FileName="MyLibrary/Application.cs" Line="13" Column="10" />
+      <File FileName="MyLibrary/Book.cs" Line="11" Column="41" />
+      <File FileName="MyLibrary/Author.cs" Line="13" Column="34" />
+      <File FileName="MyLibrary/Books.txt" Line="1" Column="1" />
+      <File FileName="MyLibrary/UI.cs" Line="1" Column="1" />
+      <File FileName="MyLibrary/Validation.cs" Line="1" Column="1" />
+      <File FileName="MyLibrary/Menu.cs" Line="11" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MyLibrary" expanded="True">
             <Node name="MyLibrary" expanded="True">
-              <Node name="Author.cs" selected="True" />
+              <Node name="Menu.cs" selected="True" />
             </Node>
           </Node>
         </State>
