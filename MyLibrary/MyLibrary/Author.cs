@@ -4,11 +4,13 @@ namespace MyLibrary
 {
     public class Author
     {
-        private string _name;
+        private string _fullName;
+        private string _hometown;
         private List<Book> _books;
 
-        public Author()
+        public Author(string fullName)
         {
+            _fullName = fullName;
         }
     }
 }
