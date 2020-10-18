@@ -6,7 +6,7 @@ namespace MyLibrary
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            HomeLibrary homeLibrary = new HomeLibrary();
         }
     }
 }

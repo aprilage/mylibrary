@@ -1,14 +1,16 @@
 ﻿<Properties StartupConfiguration="{60B88C44-E3BC-45A5-940E-2CD06CD55B23}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MyLibrary/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyLibrary/Author.cs">
     <Files>
-      <File FileName="MyLibrary/Program.cs" Line="1" Column="1" />
+      <File FileName="MyLibrary/Application.cs" Line="9" Column="1" />
+      <File FileName="MyLibrary/Book.cs" Line="9" Column="32" />
+      <File FileName="MyLibrary/Author.cs" Line="8" Column="34" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MyLibrary" expanded="True">
             <Node name="MyLibrary" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Author.cs" selected="True" />
             </Node>
           </Node>
         </State>
